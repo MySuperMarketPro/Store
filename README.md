@@ -1,2 +1,2 @@
 # Store
-My Super Market Pro
+My Super Market
